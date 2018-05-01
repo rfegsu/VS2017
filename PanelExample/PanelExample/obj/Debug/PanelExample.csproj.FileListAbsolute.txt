@@ -1,0 +1,10 @@
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\bin\Debug\PanelExample.exe.config
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\bin\Debug\PanelExample.exe
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\bin\Debug\PanelExample.pdb
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.csprojResolveAssemblyReference.cache
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.Form1.resources
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.Properties.Resources.resources
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.csproj.GenerateResource.cache
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.exe
+C:\Users\Fergus\source\repos\PanelExample\PanelExample\obj\Debug\PanelExample.pdb

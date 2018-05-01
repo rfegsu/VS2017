@@ -1,0 +1,12 @@
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.frmMain.resources
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.cache
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\bin\Debug\Cookbook.mdf
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\bin\Debug\Cookbook_log.ldf
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\Fergus\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
