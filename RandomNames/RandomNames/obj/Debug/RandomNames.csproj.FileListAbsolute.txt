@@ -1,0 +1,12 @@
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\bin\Debug\RandomNames.exe.config
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\bin\Debug\RandomNames.exe
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\bin\Debug\RandomNames.pdb
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.csprojResolveAssemblyReference.cache
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.Properties.Resources.resources
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.csproj.GenerateResource.cache
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.exe
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.pdb
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\bin\Debug\Names.mdf
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\bin\Debug\Names_log.ldf
+C:\Users\Fergus\source\repos\RandomNames\RandomNames\obj\Debug\RandomNames.frm_main.resources
